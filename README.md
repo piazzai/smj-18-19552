@@ -4,5 +4,5 @@ This repository includes data and R code for the analysis reported in [this pape
 
 ## Citation
 
-Piazzai, Michele, and Nachoem M. Wijnberg (2019). Product proliferation, complexity, and deterrence to imitation in differentiated-product oligopolies. _Strategic Management Journal 40_(6): 945–958.
+Piazzai, Michele, and Nachoem M. Wijnberg (2019). Product proliferation, complexity, and deterrence to imitation in differentiated-product oligopolies. _Strategic Management Journal 40_(6): 945–958.  
 <https://doi.org/10.1002/smj.3002>
