@@ -1,6 +1,6 @@
 # smj-18-19552
 
-This repository includes data and R code for the analysis reported in [this paper](https://doi.org/10.1002/smj.3002). The tarball contains the raw data: extract it, then run the code in R. This will replicate the entire analysis, from data preparation to descriptive statistics, estimation of regression parameters, and calculation of predictive margins. For convenience, the data used for regressions is separately provided as a CSV file.
+This repository includes data and R code for the analysis reported in [this paper](https://doi.org/10.1002/smj.3002). The tarball, hosted on [Git LFS](https://git-lfs.com/), contains the raw data: download it, extract it, then run the code in R. This will replicate the entire analysis, from data preparation to descriptive statistics, estimation of regression parameters, and calculation of predictive margins. For convenience, the data used for regressions is separately provided as a CSV file.
 
 ## Citation
 
