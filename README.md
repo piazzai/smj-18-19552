@@ -2,7 +2,7 @@
 
 This repository includes data and code for the analysis reported in the publication below.
 
-The tarball, hosted on [Git LFS](https://git-lfs.com/), contains the raw data. Download it, extract it, then run the code in R. This will replicate the entire analysis, from data preparation to descriptive statistics, estimation of regression models, and calculation of predictive margins. In case the tarball cannot be retrieved from Git LFS, it can be downloaded from Dropbox through [this link](https://www.dropbox.com/scl/fi/9b1td2qu3ipf0gnndh090/raw.tar.xz?rlkey=ccqoq1gkd65cw89zjgrlkir9z&st=pwe1cuga&dl=0).
+The tarball, hosted on [Git LFS](https://git-lfs.com/), contains the raw data. Download it, extract it, then run the code in R. This will replicate the entire analysis, from data preparation to descriptive statistics, estimation of regression models, and calculation of predictive margins. In case the tarball cannot be retrieved from Git LFS for whatever reason, it can also be downloaded from Dropbox through [this link](https://www.dropbox.com/scl/fi/9b1td2qu3ipf0gnndh090/raw.tar.xz?rlkey=ccqoq1gkd65cw89zjgrlkir9z&st=pwe1cuga&dl=0).
 
 For convenience, the data used for regressions is separately provided as a CSV file.
 
