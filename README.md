@@ -8,5 +8,5 @@ For convenience, the data used for regressions is separately provided as a CSV f
 
 ## Publication
 
-Piazzai, Michele, and Nachoem M. Wijnberg (2019). Product proliferation, complexity, and deterrence to imitation in differentiated-product oligopolies. _Strategic Management Journal_ 40(6):945–958.  
+Michele Piazzai and Nachoem Wijnberg (2019). Product proliferation, complexity, and deterrence to imitation in differentiated-product oligopolies. _Strategic Management Journal_ 40(6), 945–958.  
 <https://doi.org/10.1002/smj.3002>
